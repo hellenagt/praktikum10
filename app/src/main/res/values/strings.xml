@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">praktikum10</string>
+    <string name="_1">1</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="prioritas">Prioritas:</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="prioritas">Prioritas:</string>
+    <string name="judul">Judul</string>
+</resources>
